@@ -1,0 +1,3 @@
+[docker]
+centos ansible_host=10.10.30.44 ansible_ssh_user=root
+
